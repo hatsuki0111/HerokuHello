@@ -1,6 +1,9 @@
 # HerokuHello
 Springbootのhello worldをherokuにデプロイしました  
 
+https://herohe.herokuapp.com/  
+
+
 herokuの公式が残念  
 system.propertiesでjavaのversionを指定する必要がある  
 Defaultは8系  
